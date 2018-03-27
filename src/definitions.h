@@ -1,5 +1,5 @@
 /**
- * The Forgotten Server - a free and open-source MMORPG server emulator
+ * mmoEngine - a free and open-source MMORPG server emulator
  * Copyright (C) 2018  Mark Samman <mark.samman@gmail.com>
  *
  * This program is free software; you can redistribute it and/or modify
@@ -20,9 +20,9 @@
 #ifndef FS_DEFINITIONS_H_877452FEC245450C9F96B8FD268D8963
 #define FS_DEFINITIONS_H_877452FEC245450C9F96B8FD268D8963
 
-static constexpr auto STATUS_SERVER_NAME = "The Forgotten Server";
-static constexpr auto STATUS_SERVER_VERSION = "1.3";
-static constexpr auto STATUS_SERVER_DEVELOPERS = "Mark Samman";
+static constexpr auto STATUS_SERVER_NAME = "mmoEngine ALPHA";
+static constexpr auto STATUS_SERVER_VERSION = "0.0";
+static constexpr auto STATUS_SERVER_DEVELOPERS = "iLeet";
 
 static constexpr auto CLIENT_VERSION_MIN = 1097;
 static constexpr auto CLIENT_VERSION_MAX = 1098;
